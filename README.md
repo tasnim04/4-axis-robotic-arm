@@ -6,4 +6,4 @@ This alternative version has a new base with a bearing support system while inco
 
 Updates on the electrical and firmaware aspect of this robot will be uploaded soon. Stay tuned.
 
-https://github.com/tasnim04/4-axis-robotic-arm/issues/1#issue-811610378
+![150259945_1292872711094599_960491651933901606_n](https://user-images.githubusercontent.com/75569804/108444961-b1a29e80-72af-11eb-8b30-cb2be744d964.jpg)
