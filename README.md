@@ -6,4 +6,5 @@ This alternative version has a new base with a bearing support system while inco
 
 Updates on the electrical and firmware aspect of this robot will be uploaded soon. Stay tuned.
 
-![150259945_1292872711094599_960491651933901606_n](https://user-images.githubusercontent.com/75569804/108444961-b1a29e80-72af-11eb-8b30-cb2be744d964.jpg)
+![151700123_541086810196822_9143117930688410765_n](https://user-images.githubusercontent.com/75569804/108792726-0f97f480-75d6-11eb-93e1-0a2d53b7e11d.jpg)
+
