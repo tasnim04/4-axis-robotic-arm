@@ -1,4 +1,4 @@
-# 4-axis-robotic-arm
+# 2-axis-robotic-arm
 
 Inspired by the range of open-source 3d-printable robots arms designed by Carlo Franciscone, this 4-axis robot is an alternate version of the EEzybot MK3 powered by stepper motors. The original EEzybot MK3 robot is a scaled down version of the ABB IRB460 robot. 
 
